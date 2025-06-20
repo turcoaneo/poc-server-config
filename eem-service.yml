@@ -10,5 +10,4 @@ spring:
 
 eem:
   scheduler:
-    cron: "0 */5 * * * *"
     enabled: true
