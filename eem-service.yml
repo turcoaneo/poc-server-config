@@ -10,4 +10,5 @@ spring:
 
 eem:
   scheduler:
-    enabled: false
+#    enabled: false
+    enabled: true
