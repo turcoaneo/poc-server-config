@@ -10,3 +10,4 @@ spring:
 eem:
   scheduler:
     enabled: true
+some: body
