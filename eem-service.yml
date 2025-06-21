@@ -9,4 +9,4 @@ spring:
     show-sql: true
 eem:
   scheduler:
-    enabled: false
+    enabled: true
